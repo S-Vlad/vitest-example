@@ -1,0 +1,24 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`CounterWithState > matches with snapshot 1`] = `
+<body>
+  <div>
+    <div>
+      <h1>
+        0
+      </h1>
+      <button>
+        Increment
+      </button>
+      <input
+        name="amount"
+        type="number"
+        value="0"
+      />
+      <button>
+        Set
+      </button>
+    </div>
+  </div>
+</body>
+`;
